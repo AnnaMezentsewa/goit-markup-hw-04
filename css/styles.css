@@ -441,6 +441,8 @@ margin-right: 30px; */
 }
 .footer-container {
   display: flex;
+  align-items: baseline;
+  padding: 60px 0;
 }
 
 .logo-footer {
@@ -462,8 +464,6 @@ margin-right: 30px; */
 /* Address */
 
 .address-container {
-  padding-top: 60px;
-  padding-bottom: 60px;
   margin-right: 70px;
 }
 .address {
@@ -490,11 +490,6 @@ margin-right: 30px; */
 }
 
 /* Invitation */
-
-.invitation-container {
-  padding-top: 72px;
-  padding-bottom: 100px;
-}
 
 .invitation-tittle {
   display: block;
